@@ -6,7 +6,7 @@ Render an include file from anywhere in your Jekyll project
 
 ## How to use this plugin
 
-1. Add the [_render.rb](https://github.com/cfarm/render.rb) file to your _includes directory.
+1. Add the [_render.rb](https://github.com/cfarm/render.rb) file to your _plugins directory. [See more info on plugins](http://jekyllrb.com/docs/plugins/).
 2. Use the render tag to include a file from anywhere else in your project. Filepaths are relative to the present working directory.
 
 ## Examples
